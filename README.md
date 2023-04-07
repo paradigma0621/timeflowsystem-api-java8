@@ -6,13 +6,14 @@ This project is designed to run in *Java 8*.
 
 2023-04-07 - Creation of API Microservice
 
-2023-04-07 - Connected by Feign this microservice with Report Microservice
+2023-04-07 - Connected by Feign the microservices report-java8 and api-java8
 
-List of microservices correlated:
+List of microservices correlated: <br>
 https://github.com/paradigma0621/timeflowsystem-config-java8 <br>
 https://github.com/paradigma0621/timeflowsystem-eureka-java8 <br>
 https://github.com/paradigma0621/timeflowsystem-report-java8 <br>
 https://github.com/paradigma0621/timeflowsystem-core-java8 <br>
+https://github.com/paradigma0621/timeflowsystem-api-java8 <br>
 https://github.com/paradigma0621/timeflowsystem-gateway-java8
 
 
